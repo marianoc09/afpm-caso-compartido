@@ -10,19 +10,35 @@ _Ejemplo de otro contexto:_ "Flotilla es una app interna de logística de una c
 **DocenteMatch** es una plataforma interna de intercambio académico que cruza los descriptores del programa analítico de una materia vacante con las competencias, antecedentes y formación del cuerpo docente institucional, permitiendo que directores de cualquier departamento soliciten y acuerden la cesión temporal de profesores entre áreas distintas sin fricción burocrática ni trámites manuales. Producto **nuevo e interno**.
 
 - **Target / Usuarios finales:** Directores de departamento académico de toda la universidad que necesitan cubrir materias con perfiles idóneos de manera ágil, así como directores con docentes disponibles que buscan maximizar el aprovechamiento de su cuerpo académico.
+
+	* Los directores de departamento son personas a cargo de disciplinas específicas dentro de la universidad y tienen a su cargo a todo el cuerpo docente de la disciplina. Ej: Departamento de Economía y Finanzas Avanzadas, Departamento de Ciencias Sociales y Humanidades, Departamento de Tecnología e Innovación, Departamento de Tecnología Informática, Departamento de Alimentos y Biotecnología, Departamento de Educación a Distancia, etc. 
 	
-    ==Consultas a realizar:==
-    * ==Cantidad de Facultades==
-    * ==Promedio de departamentos por facultad==
-    * ==Cantidad de Carreras==
-    * ==Cantidad de docentes totales==
-    * ==Tipos de docentes (Horarios / Funcionales)==
-    * ==Cantidad promedio de docentes x departamento==
-    * ==Cantidad de clases x cuatrimestre==
-    
-- **Sponsor:** El Rector.
-    
-- **Qué necesita ver el sponsor:** Optimización global y transversal del capital docente de la universidad (evitando silos entre facultades), garantía de estándares de calidad académica en cada cruce curricular, y cero comisiones demoradas o sin docente asignado al inicio de clases reportadas en el balance institucional.
+	* La universidad cuenta con 10 facultades o unidades académicas
+		* Facultad de Ciencias Económicas tiene 9 departamentos
+		* Facultad de Comunicación tiene 9 departamentos
+		* Facultad de Ingeniería tiene 7 departamentos
+		* Facultad de Diseño tiene 4 Departamentos
+		* Facultad de Jurídicas tiene 4 departamentos
+		* Facultad de Salud tiene 2 departamentos
+		* Facultad de Arquitectura tiene 1 departamento
+		* Unidad Académica Costa Argentina tiene 1 Departamento
+		* Unidad Académica Online tiene 1 Departamento
+		* Unidad Académica Maestrías y Posgrados tiene 1 Departamento
+	
+	* La universidad cuenta con 110  carreras (Grado / Posgrado / Costa / Online). Incluye como carreras las dobles titulaciones y Diplomaturas. Ej: Lic. en Finanzas, Dob. Tit. Marketing y Comercio Internacional, Dip. en Administración de Inversiones Financieras, Ingeniería en Informática, Ingeniería en Alimentos, Lic. en Bioinformática, Lic. en Gobierno y Relaciones Internacionales, Lic. en Gestión de Servicios de Salud, etc
+	
+	* La universidad cuenta con XXXX docentes horarios y XXXX Docentes Funcionales. 
+	
+	* La cantidad de docentes promedio x departamento es de XXXXX
+	
+	* La cantidad de clases abiertas por cuatrimestre es de XXXXX
+	
+	* La cantidad de clases que se cierran por no conseguir docentes dentro del departamento es de XXXXXXXX
+  
+- **Sponsor:** El Rector de la universidad
+
+
+- **Qué necesita ver el sponsor:** Optimización global y transversal del capital docente de la universidad (evitando silos entre facultades), garantía de estándares de calidad académica en cada cruce curricular, y cero clases demoradas o sin docente asignado al inicio de clases reportadas en el balance institucional.
 
 
 ### 2. Copia tus 3–5 creencias no verificadas tal como quedaron en tu overview (con sus tags). Para cada una, agrega una línea propia: **¿qué evidencia concreta demostraría que es falsa?**
