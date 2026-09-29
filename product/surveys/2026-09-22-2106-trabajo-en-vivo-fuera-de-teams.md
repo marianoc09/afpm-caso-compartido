@@ -1,7 +1,7 @@
 ---
 opportunity: trabajo-en-vivo-fuera-de-teams
 beliefs: "#1 [opportunity: trabajo-en-vivo-fuera-de-teams] [value]; #4 [product] [value]"
-status: draft
+status: drafted
 ---
 
 # Encuesta: trabajo en vivo fuera de Teams durante reuniones de 8+
