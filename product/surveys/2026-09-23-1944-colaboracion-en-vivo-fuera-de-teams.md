@@ -5,7 +5,7 @@ status: published
 
 # Encuesta: trabajo colaborativo fuera de Teams en reuniones de más de 5 participantes
 
-- **Objetivos de aprendizaje:**
+- **Objetivos de aprendizaje:** hola
   - **O1. Origen del artefacto.** ¿El tablero o documento externo se crea para la reunión o ya existía y sigue viviendo afuera? *Decisión:* si mayormente preexiste, el problema es de integración con los sistemas donde ya vive el trabajo, no de colaboración en vivo.
   - **O2. Costo de acceso.** Minutos hasta que todos entran, cuántos quedan afuera y cuánto pesan los externos. *Decisión:* confirma o tumba el umbral de 5 minutos; si la fricción se concentra en reuniones con invitados externos, es un problema de otro segmento (consultores y agencias) y no del Team Lead que conduce reuniones internas.
   - **O3. Qué se hace afuera y dónde queda la decisión.** Votar, priorizar, editar, revisar datos, registrar acuerdos. *Decisión:* qué actividad tendría que cubrir cualquier solución, incluidas capacidades de IA para colaborar y decidir, no solo pizarras.
